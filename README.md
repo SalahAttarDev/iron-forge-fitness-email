@@ -3,7 +3,7 @@
 
 | Desktop Preview | Mobile Preview |
 | :--- | :--- |
-| ![Desktop View](preview.jpg) | ![Mobile View](preview-mobile.jpg) |
+| ![Desktop View](preview.png) | ![Mobile View](preview-mobile.png) |
 
 ## 📖 Project Overview
 Email development requires a specialized approach compared to traditional web development. While modern browsers support advanced CSS, many email clients rely on legacy rendering engines that often break standard layouts.
